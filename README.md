@@ -1,2 +1,3 @@
-# spotify-recommendation-algorithm
-A Spotify recommendation engine written in Python using clustering algorithm and cosine similarity 
+# Spotify Recommendation Algorithm
+
+A Spotify recommendation engine written in Python using a clustering algorithm and cosine similarity 
